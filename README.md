@@ -1,3 +1,5 @@
+![logo](https://github.com/Shrinath-Rajput/Shrinath-Rajput/blob/main/WhatsApp%20Image%202025-07-07%20at%201.55.01%20PM.jpeg)
+
 <h1 align="center">Hi 👋, I'm Shrinath_Rajput</h1>
 <h3 align="center">I am AIML Engineer</h3>
 
