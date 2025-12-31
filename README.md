@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shrinath-Rajput/Shrinath-Rajput/blob/main/WhatsApp%20Image%202025-07-07%20at%201.55.01%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Shrinath Rajput</h1>
-<h3 align="center">Python Developer | Machine Learning & Data Analyst | Turning Data into Intelligence💥to Deep_learning|Front-end Back-end Devloper with DSA|Handle to Big Data to Data Anly=</h3>
+<h3 align="center">Python Developer | Machine Learning & Data Analyst | Turning Data into Intelligence💥to Deep_learning|Front-end Back-end Devloper with DSA|Handle to Big Data to Data Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrinath-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="shrinath-rajput" /> </p>
 
