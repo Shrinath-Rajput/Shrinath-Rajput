@@ -11,7 +11,7 @@
 <a href="https://twitter.com/@rajputshri88229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rajputshri88229" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shrinath-rajput-91b437253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrinath-rajput-91b437253/" height="30" width="40" /></a>
 <a href="https://fb.com/shrinathrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shrinathrajput" height="30" width="40" /></a>
-<a href="https://instagram.com/shrinath-rajput04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrinath-rajput04" height="30" width="40" /></a>
+<a href="https://instagram.com/shrinath.rajput04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrinath-rajput04" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@shrinathrajput-a14k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shrinathrajput-a14k" height="30" width="40" /></a>
 </p>
 
